@@ -1,0 +1,45 @@
+              <-----(Pseudocode)----->
+
+Start
+// Taking input three numbers
+Input 'a', 'b', 'c'
+// Compare 'a' with 'b'
+If,
+   a > b
+Proceeed to the row '12'
+Else If,
+Proceed to the row '18'
+// Compare 'a' with 'c'
+If,
+   a > c
+Print "a is the greatest number"
+Else If,
+Print "c is the greatest number"
+//Compare 'b' with 'c'
+If,
+   b > c
+Print "b is the greatest number"
+Else If,
+Print "c is the greatest number"
+End
+
+            <-----(Algorithm)----->
+
+Start
+Input 'a', 'b', 'c'
+If,
+   a > b
+Proceeed to the row '35'
+Else If,
+Proceed to the row '40'
+If,
+   a > c
+Print "a is the greatest number"
+Else If,
+Print "c is the greatest number"
+If,
+   b > c
+Print "b is the greatest number"
+Else If,
+Print "c is the greatest number"
+End
