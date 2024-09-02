@@ -1,2 +1,48 @@
+             <-----(pseudocode)----->
+
 Start
-//
+// Taking customer's order
+Input order
+// Check the availability of order
+If,
+   The order is available
+Ask for special request
+else If,
+   Print "Sorry sir, this order is not available, pick another order"
+// Check for special requests
+Print "Do you have any special request"
+ If,
+    yes
+Add special request to the order
+Else If,
+    Calculate the bill
+// Checking payment status
+If,
+   Bill is paid
+Print "There is Your order", order
+Else If,
+   Print "Please sir pay your bill"
+End
+
+             <-----(Algorithm)----->
+
+Start
+Input order
+If,
+   The order is available
+Ask for special request
+else If,
+   Print "Sorry sir, this order is not available, pick another order"
+Print "Do you have any special request"
+ If,
+    yes
+Add special request to the order
+Else If,
+    Calculate the bill
+Payment status
+If,
+   Bill is paid
+Print "There is Your order", order
+Else If,
+   Print "Please sir pay your bill"
+End
