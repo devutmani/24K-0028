@@ -12,3 +12,25 @@ Print "The sum is:", num1 + num2
 Else If,
 Print "The subtraction is:", num1 - num2
 End
+
+Start
+// Taking input num1
+Input num1
+// Taking input operator '+' or '-' or '/' or '%'
+Input '+' or '-' or '/' or '%'
+// Taking input num2
+Input num2
+// Calculating 
+If,
+   User selected '+' operator
+Print "The sum is:", num1 + num2
+Else If,
+   User selected '-' operator
+Print "The subtraction is:", num1 - num2
+Else If,
+   User selected '/' operator
+Print "
+Else If,
+   User selected '%' operator
+Print "
+End
