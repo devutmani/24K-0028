@@ -1,0 +1,14 @@
+Start
+// Taking input num1
+Input num1
+// Taking input operator '+' or '-'
+Input '+' or '-'
+// Taking input num2
+Input num2
+// Calculating 
+If,
+User select '+' operator
+Print "The sum is:", num1 + num2
+Else If,
+Print "The subtraction is:", num1 - num2
+End
