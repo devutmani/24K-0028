@@ -1,0 +1,23 @@
+Start
+// Taking input num1
+Input num1
+// Taking input operator (+,-,/,%)
+Input operator
+// Taking input num2
+Input num2
+// Calculating 
+If,
+   User selected '+' operator
+Print  num1 + num2
+Else If,
+   User selected '-' operator
+Print  num1 - num2
+Else If,
+   User selected '/' operator
+Print  num1/num2
+Else If,
+   User selected '%' operator
+Print  num1%num2
+Else If,
+   Print "Invalid operator"
+End
