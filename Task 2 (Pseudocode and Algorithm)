@@ -1,0 +1,40 @@
+            <-----(Pseudocode)----->
+
+Start
+// Take account number
+Input account number
+// Check the validity of account number
+If,
+   account number is valid
+Proceed to the Next step
+Else If,
+Print "This is invalid account number"
+// Ask For deposite amount 
+Input deposite amount
+// Check the deposite amount is valid (deposite amount > 0)
+If, 
+   The amount is valid 
+Update account balance
+Else If,
+   Print "Invalid deposite amount"
+// Provide recept
+Print "There is your recept", recept
+End
+
+            <-----(Algorithm)----->
+Start
+Input account number
+If,
+   account number is valid
+Proceed to the Next step
+Else If,
+Print "This is invalid account number"
+Input deposite amount
+Is deposite amount valid
+If, 
+   The amount is valid 
+Update account balance
+Else If,
+   Print "Invalid deposite amount"
+Print "There is your recept", recept
+End
