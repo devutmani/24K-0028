@@ -1,0 +1,39 @@
+Start
+Input a number between 1-12, including them
+If,
+  month_number == 1
+Print "January"
+Else If,
+  month_number == 2
+Print "February"
+Else If,
+  month_number == 3
+Print "March"
+Else If,
+  month_number == 4
+Print "April"
+Else If,
+  month_number == 5
+Print "May"
+Else If,
+  month_number == 6
+Print "June"
+Else If,
+  month_number == 7
+Print "July"
+Else If,
+  month_number == 8
+Print "August"
+Else If,
+  month_number == 9
+Print "September"
+Else If,
+  month_number == 10
+Print "October"
+Else If,
+  month_number == 11
+Print "November"
+Else If,
+  month_number == 12
+Print "December"
+End
